@@ -1,0 +1,9 @@
+body{
+background-color: azure;
+}
+h1{
+    color: rgb(123, 141, 157);
+}
+p{
+   font: 1em sans-serif; 
+}
